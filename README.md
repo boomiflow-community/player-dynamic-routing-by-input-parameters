@@ -1,4 +1,4 @@
-# player-dynamic-routing-by-input-parameters.html
+# player-dynamic-routing-by-input-parameters
 This is a sample player to complement the flow that can be imported with this sharing token:
 
 qirn4AB/bGcM58OeN//zLxcH6DWjXsiZC0LJIZE4TLEmf289WpUcFrwgofPeaVw2
