@@ -7,7 +7,7 @@ Depending on the input values, the routing will be different and a special navig
 
 Sample URLs:
 
-Default routing [triggered when inputRoute value input doesn't equal one or two] : https://flow.boomi.com/4a3c6d64-a236-465d-9344-c7244c69551b/play/dynamicrouting/?flow-id=4548d988-fd23-4b42-8d65-67a8d88dc787
+Default routing [triggered when inputRoute value input doesn't equal one or two... the player auto populates another filler value if nothing is provided] : https://flow.boomi.com/4a3c6d64-a236-465d-9344-c7244c69551b/play/dynamicrouting/?flow-id=4548d988-fd23-4b42-8d65-67a8d88dc787
 
 Route one [triggered when inputRoute=one ]: https://flow.boomi.com/4a3c6d64-a236-465d-9344-c7244c69551b/play/dynamicrouting/?flow-id=4548d988-fd23-4b42-8d65-67a8d88dc787&inputRoute=one
 
