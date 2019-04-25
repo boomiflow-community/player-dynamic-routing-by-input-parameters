@@ -3,6 +3,8 @@ This is a sample player to complement the flow that can be imported with this sh
 
 qirn4AB/bGcM58OeN//zLxcH6DWjXsiZC0LJIZE4TLEmf289WpUcFrwgofPeaVw2
 
+Changes to the default player can be seen from lines 130-141, and line 155. Also the default theme on line 162 as a personal preference, but not a necessary part of this functionality sample.
+
 Depending on the input values, the routing will be different and a special navigation override can be engaged.
 
 Sample URLs:
